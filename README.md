@@ -34,13 +34,33 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Semantic is related to meaning in language and logic. The purpose of semantics in HTML is to give meaning to the code in a way that is easy to understand work with, a <header> tag shows that any code following, will be placed in the header of the page </header>. This helps break a webpage/code into elements that are easier to manipulate if you know clearly what you are working with.
+
+
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+With a display: inline; will have everything on one line and will take up only as much width as it needs. The display: block will allow you to set measurements for width and height, whereas you cannot do so with inline. 
+
+
 
 3. What are the 4 areas of the box model?
 
+Margin, border, padding, content.
+
+
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+It will work on the cross-axis. 
+
+
+
 5. Explain why git is valuable to a team of developers.
+
+The repositories stored on git are able to be accessed, edited, and shared among developers who may be working together as a team on a single project. Git will keep the history of all the edits done in a time-line fashion. Overall, it’s a user-friendly platform that uses branch workflows, local repositories and pull requests (e.g., can use to seek help from others) that are secure and widely accepted by most organizations. 
+
+
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
